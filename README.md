@@ -11,9 +11,13 @@
 <h2>My Github Stats</h2>
 <br>
 
-<p align = "center">
+<p align = "left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdcrab02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+
+<p align = "right">
 
 ![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdcrab02&show_icons=true&theme=dark)
 
