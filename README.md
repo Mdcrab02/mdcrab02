@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/Qiskit-6929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white"/>
 <img src="https://img.shields.io/badge/RStudio-75AADB.svg?style=for-the-badge&logo=RStudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
