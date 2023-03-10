@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdcrab02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdcrab02&show_icons=true&theme=radical)
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdcrab02&show_icons=true&theme=dark)
 
 <!--
 **Mdcrab02/mdcrab02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
