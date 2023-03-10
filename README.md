@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=mdcrab02&style=flat-square"></h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdcrab02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
