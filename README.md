@@ -6,13 +6,11 @@
 
 <p align="justify">Although I'm a people leader now, I'll always love programming for fun.  I also like to create repositories that can be followed like a tutorial with the purpose of helping others.  That's why you will often see notes in my scripts that explain the code in sometimes excruciating detail :)</p>
 
-<h2>My Github Stats</h2>
-<br>
+## My Github Stats
 
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=mdcrab02&show_icons=true&theme=dark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mdcrab02&layout=compact&theme=dark">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdcrab02&show_icons=true&theme=dark&line_height=27" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdcrab02&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ### Top Languages:
