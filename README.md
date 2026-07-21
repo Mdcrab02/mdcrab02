@@ -52,7 +52,8 @@
 
 ### 📊 My Github Stats
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=mdcrab02&show_icons=true&theme=dark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mdcrab02&layout=compact&theme=dark">
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KanikaACrabtree&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KanikaACrabtree&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KanikaACrabtree)
